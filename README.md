@@ -13,13 +13,13 @@
 <p align="left">
 ✨ Creating bugs since 2021 — but fixing most of them too!<br>
 📚 Currently diving deeper into Data structures and Backend technologies<br>
-🎯 Goal: Land a challenging SDE role where I can build scalable and impactful software products<br>
-🎲 Fun fact: I often build projects just to learn one small feature — and end up creating way more bugs just to resolve them 🚀
+🎯 Goal: Land a challenging SDE role where I can build scalable and impactful software products - i guess getting into the MATRIX :)<br>
+🎲 Fun fact: I often build projects just to learn one small feature if don't then probably wondering about the universe’s existence. 🚀
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Go with</h2>
 
 ###
 
