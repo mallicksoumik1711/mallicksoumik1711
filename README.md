@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey! What's up?</h1>
 
 ###
 
-<p align="left">My name is Soumik and I'm a fresher actively seeking roles like Software Developer, SDE, Associate Software Engineer, and related positions. I'm from Raipur, Chhattisgarh 🇮🇳 <div align="right">
+<p align="left">Myself Soumik and I'm a fresher actively seeking roles like Software Developer, SDE, Associate Software Engineer, and related positions. I'm from Raipur, Chhattisgarh 🇮🇳 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mallicksoumik1711.mallicksoumik1711&"  />
 </div> </p>
 
