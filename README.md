@@ -1,55 +1,35 @@
-<h1 align="left">Hey! What's up?</h1>
+<h1 align="center">Hi, I'm Soumik Mallick</h1>
+<h3 align="center">Building scalable things, one commit at a time.</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mallicksoumik1711&label=Profile%20views&color=0e75b6&style=flat" alt="mallicksoumik1711" /> </p>
 
-<p align="left">Myself Soumik and I'm a fresher actively seeking roles like Software Developer, SDE, Associate Software Engineer, and related positions. I'm from Raipur, Chhattisgarh 🇮🇳 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mallicksoumik1711.mallicksoumik1711&"  />
-</div> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mallicksoumik1711" alt="mallicksoumik1711" /></a> </p>
 
-###
+- 🔭 I’m currently working on [API Protection Platform](https://github.com/mallicksoumik1711/Api-protection-platform)
 
-###
+- 🌱 I’m currently learning **Backend architectures, Rate Limits, cache and deployment**
 
-<h2 align="left">About me</h2>
+- 🤝 I’m looking for help with [Realtime Draw](https://github.com/mallicksoumik1711/Realtime_Draw)
 
-###
+- 👨‍💻 My recent live project [realtime-draw-koya.onrender.com](realtime-draw-koya.onrender.com)
 
+- 💬 Ask me about **My day.**
+
+- 📫 How to reach me **mallicksoumik1711@gmail.com**
+
+- ⚡ Fun fact **Works on my machine**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-✨ Creating bugs since 2021 — but fixing most of them too!<br>
-📚 Currently diving deeper into Data structures and Backend technologies<br>
-🎯 Goal: Land a challenging SDE role where I can build scalable and impactful software products - i guess getting into the MATRIX :)<br>
-🎲 Fun fact: I often build projects just to learn one small feature if don't then probably wondering about the universe’s existence. 🚀
+<a href="https://linkedin.com/in/www.linkedin.com/in/soumik-mallick-82b951222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/soumik-mallick-82b951222" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/soumik_mallick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/soumik_mallick/" height="30" width="40" /></a>
 </p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<h2 align="left">I Code with</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mallicksoumik1711&show_icons=true&locale=en&layout=compact" alt="mallicksoumik1711" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mallicksoumik1711&show_icons=true&locale=en" alt="mallicksoumik1711" /></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="Github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
-  <img width="12" />
-</div>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mallicksoumik1711&" alt="mallicksoumik1711" /></p>
