@@ -2,4 +2,4 @@
 
 ## 📊 My GitHub Contributions (3D)
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-south-season.svg)
