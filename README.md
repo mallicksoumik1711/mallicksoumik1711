@@ -28,6 +28,10 @@
 → Fully responsive (mobile + desktop)  
 → Sidebar overlay + real-time messaging 
 
+🎨 **Real-Time Drawing App**  
+→ Multi-user collaborative canvas using WebSockets  
+→ Live drawing sync across clients 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallicksoumik1711&theme=tokyo-night" />
 </p>
