@@ -20,11 +20,11 @@
 
 ## 🚀 Featured Projects
 
-🔐 [**API Security Middleware**](https://github.com/mallicksoumik1711/Api-protection-platform)  
+🔐 [**API Security Middleware**](https://github.com/mallicksoumik1711/Api-protection-platform)
 → JWT auth + rate limiting system  
 → Plug-and-play for any backend  
 
-💬 [**React Chatbot UI**](https://github.com/mallicksoumik1711/Ollama-Chatbot) 
+💬 [**React Chatbot UI**](https://github.com/mallicksoumik1711/Ollama-Chatbot)
 → Fully responsive (mobile + desktop)  
 → Sidebar overlay + real-time messaging 
 
