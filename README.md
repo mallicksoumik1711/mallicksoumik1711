@@ -1,20 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automation+Engineer;Building+Scalable+Systems;React+%7C+Node+%7C+Java" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Development;Building+Scalable+Systems;React+%7C+Node+%7C+Dotnet" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallicksoumik1711&label=Profile%20views&color=0e75b6&style=flat" alt="mallicksoumik1711" /> </p>
 
 ## 🧠 What I Build
 
-- 🔐 Secure backend systems (JWT, rate limiting, middleware)
-- ⚙️ Automation frameworks (Java + Selenium)
-- 💬 Scalable frontend apps (React + Tailwind)
+- 🔐 Secure backend systems with JWT authentication, API validation & rate limiting
+- ⚙️ Scalable REST APIs with clean structure and proper error handling
+- 💬 Scalable frontend apps
+- 🧩 Modular middleware solutions that integrate easily into existing backends
 - 📊 API-driven applications with clean architecture
 
 - ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,selenium,tailwind,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,c++,tailwind,docker,git" />
 </p>
 
 ## 🚀 Featured Projects
@@ -25,11 +26,7 @@
 
 💬 **React Chatbot UI**  
 → Fully responsive (mobile + desktop)  
-→ Sidebar overlay + real-time messaging  
-
-⚙️ **Automation Testing Framework**  
-→ Java + Selenium  
-→ Scalable test architecture + reporting 
+→ Sidebar overlay + real-time messaging 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallicksoumik1711&theme=tokyo-night" />
