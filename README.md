@@ -15,7 +15,7 @@
 - ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,c++,tailwind,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,cplusplus,tailwind,docker,git" />
 </p>
 
 ## 🚀 Featured Projects
