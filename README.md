@@ -20,15 +20,15 @@
 
 ## 🚀 Featured Projects
 
-🔐 **API Security Middleware**  
+🔐 [**API Security Middleware**](https://github.com/mallicksoumik1711/Api-protection-platform)  
 → JWT auth + rate limiting system  
 → Plug-and-play for any backend  
 
-💬 **React Chatbot UI**  
+💬 [**React Chatbot UI**](https://github.com/mallicksoumik1711/Ollama-Chatbot) 
 → Fully responsive (mobile + desktop)  
 → Sidebar overlay + real-time messaging 
 
-🎨 **Real-Time Drawing App**  
+🎨 [**Real-Time Drawing App**](https://github.com/mallicksoumik1711/Realtime_Draw)
 → Multi-user collaborative canvas using WebSockets  
 → Live drawing sync across clients 
 
