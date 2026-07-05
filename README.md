@@ -28,7 +28,7 @@
 → Fully responsive (mobile + desktop)  
 → Sidebar overlay + real-time messaging 
 
-🎨 [**Real-Time Drawing App**](https://github.com/mallicksoumik1711/Realtime_Draw)   
+🎨 [**RealTime Collaborative Whiteboard**](https://github.com/mallicksoumik1711/Realtime_Draw)   
 → Multi-user collaborative canvas using WebSockets  
 → Live drawing sync across clients 
 
