@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-🔐 [**API Security Middleware**](https://github.com/mallicksoumik1711/Api-protection-platform)   
+🔐 [**Bouncer | API Protection Platform**](https://github.com/mallicksoumik1711/Api-protection-platform)   
 → JWT auth + rate limiting system  
 → Plug-and-play for any backend  
 
