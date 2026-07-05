@@ -10,7 +10,7 @@
 - ⚙️ Scalable REST APIs with clean structure and proper error handling
 - 💬 Scalable frontend apps
 - 🧩 Modular middleware solutions that integrate easily into existing backends
-- 📊 API-driven applications with clear architecture
+- 📊 API driven applications with clear architecture
 
 - ## 🧰 Tech Stack
 
