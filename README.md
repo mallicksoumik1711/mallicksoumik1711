@@ -34,9 +34,13 @@
 
 ## 🚀 Featured Projects
 
-🔐 [**Bouncer | API Protection Platform**](https://github.com/mallicksoumik1711/Api-protection-platform)   
-→ JWT auth + rate limiting system  
-→ Plug-and-play for any backend  
+### 🔐 Bouncer
+
+![React](https://img.shields.io/badge/React-blue)
+![Node](https://img.shields.io/badge/Node-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+
+JWT Authentication • Rate Limiting • API Gateway 
 
 💬 [**React Chatbot UI**](https://github.com/mallicksoumik1711/Ollama-Chatbot)   
 → Fully responsive (mobile + desktop)  
