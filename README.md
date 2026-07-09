@@ -2,8 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mallicksoumik1711&label=Profile%20views&color=0e75b6&style=flat" alt="mallicksoumik1711" /> </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mallicksoumik1711/mallicksoumik1711/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
@@ -16,7 +14,6 @@
 - 🧩 Modular middleware solutions that integrate easily into existing backends
 - 📊 API driven applications with clear architecture
 
----
 
 ## 🧰 My Stack
 
@@ -24,7 +21,6 @@
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,mongodb,mysql,java,cpp,tailwind,docker,git,github,aws,postman,vscode&perline=10"/>
 </p>
 
----
 
 ## 🚀 Featured Projects
 
