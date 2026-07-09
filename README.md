@@ -1,8 +1,18 @@
+<h1 align="center">Hi 👋, I'm Soumik Mallick</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Development;Building+Scalable+Systems;React+%7C+Node+%7C+Dotnet" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mallicksoumik1711&label=Profile%20views&color=0e75b6&style=flat" alt="mallicksoumik1711" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mallicksoumik1711&label=Profile%20views&color=0e75b6&style=flat" alt="mallicksoumik1711" /> </p>
+
+---
+
+## 🟡 Pacman Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mallicksoumik1711/mallicksoumik1711/pacman-contribution-graph/pacman-contribution-graph-dark.svg">
+</p>
 
 ## 🧠 What I Build
 
@@ -12,11 +22,15 @@
 - 🧩 Modular middleware solutions that integrate easily into existing backends
 - 📊 API driven applications with clear architecture
 
-- ## 🧰 Tech Stack
+---
+
+## 🧰 My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,cpp,tailwind,docker,git" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,mongodb,mysql,java,cpp,tailwind,docker,git,github,aws,postman,vscode&perline=10"/>
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
