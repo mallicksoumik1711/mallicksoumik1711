@@ -44,6 +44,10 @@
 
 JWT Authentication • Rate Limiting • API Gateway 
 
+<a href="https://github.com/mallicksoumik1711/Api-protection-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mallicksoumik1711&repo=Api-protection-platform&theme=tokyonight"/>
+</a>
+
 💬 [**React Chatbot UI**](https://github.com/mallicksoumik1711/Ollama-Chatbot)   
 → Fully responsive (mobile + desktop)  
 → Sidebar overlay + real-time messaging 
