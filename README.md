@@ -34,11 +34,13 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 Bouncer
+### 🔐 Bouncer | API Protection Middleware
 
-![React](https://img.shields.io/badge/React-blue)
-![Node](https://img.shields.io/badge/Node-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 JWT Authentication • Rate Limiting • API Gateway 
 
