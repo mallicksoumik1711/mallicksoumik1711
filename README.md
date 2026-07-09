@@ -8,10 +8,8 @@
 
 ---
 
-## 🟡 Pacman Contribution Graph
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/mallicksoumik1711/mallicksoumik1711/pacman-contribution-graph/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/mallicksoumik1711/mallicksoumik1711/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ## 🧠 What I Build
@@ -61,6 +59,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 🤖 Local LLM Chat • 💬 Streaming Responses • 📱 Responsive UI • ⚡ Ollama Integration
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallicksoumik1711&theme=tokyo-night" />
